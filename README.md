@@ -1,7 +1,5 @@
 # Sistema de Gestión Hotelera
 
-candela
-
 ## Descripción del Proyecto
 El **Sistema de Gestión Hotelera** es una solución integral diseñada para optimizar las operaciones de los hoteles, mejorando la experiencia de los huéspedes y aumentando la eficiencia del personal. Este sistema centraliza la gestión de reservas, el control de inventarios, la facturación y la personalización del servicio al cliente, utilizando tecnologías modernas y metodologías de desarrollo estructuradas.
 
