@@ -17,7 +17,7 @@ El **Sistema de Gestión Hotelera** es una solución integral diseñada para opt
 - **Base de Datos**: PostgreSQL administrada con PgAdmin
 
 ### Frontend
-- **Lenguaje**: JavaScript
+- **Lenguaje**: JavaScript, CSS, HTML
 - **Framework**: React
 
 ### Herramientas de Desarrollo
