@@ -3,6 +3,30 @@
 ## Descripción del Proyecto
 El **Sistema de Gestión Hotelera** es una solución integral diseñada para optimizar las operaciones de los hoteles, mejorando la experiencia de los huéspedes y aumentando la eficiencia del personal. Este sistema centraliza la gestión de reservas, el control de inventarios, la facturación y la personalización del servicio al cliente, utilizando tecnologías modernas y metodologías de desarrollo estructuradas.
 
+## **Equipo de Desarrollo**
+El proyecto cuenta con un equipo diverso y especializado en diferentes áreas del desarrollo de software. A continuación, se presentan los roles clave y sus responsabilidades:
+
+- **Mabel María Castillo Moreno**:  
+  **Analista de Software**  
+  Analiza requisitos y traduce necesidades del cliente en especificaciones técnicas.
+
+- **Maydelín del Carmen Ibarra Núñez**:  
+  **Arquitecta de Software**  
+  Diseña la estructura del sistema, eligiendo tecnologías y garantizando escalabilidad.
+
+- **Oniel José Aguilar Milán**:  
+  **Desarrollador Frontend**  
+  Crea la interfaz de usuario, enfocándose en diseño y experiencia del usuario.
+
+- **Frank Ernesto Cortiñas Peña**:  
+  **Desarrollador Backend**  
+  Gestiona la lógica del servidor, bases de datos y integración de sistemas.
+
+- **David Avila de la Rosa**:  
+  **Probador**  
+  Realiza pruebas para asegurar la calidad y detectar errores antes de la entrega.
+
+
 ## Características Principales
 - **Gestión de Reservas**: Registro, modificación y cancelación de reservas con verificación de disponibilidad en tiempo real.
 - **Gestión de Habitaciones**: Control de ocupación, estado de mantenimiento y tarifas dinámicas.
