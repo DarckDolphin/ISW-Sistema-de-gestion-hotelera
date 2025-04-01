@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMI xmi.version="1.1" xmlns:UML="org.omg.xmi.namespace.UML">
+    <XMI.content>
+        <UML:Model name="Sistema de Gestión Hotelera">
+            <!-- Definición de paquetes -->
+            <UML:Package name="Gestión de Reservas">
+                <UML:Class name="Reserva">
+                    <UML:Attribute name="fecha" visibility="private"/>
+                    <UML:Attribute name="estado" visibility="private"/>
+                    <UML:Operation name="crearReserva()" visibility="public"/>
+                    <UML:Operation name="cancelarReserva()" visibility="public"/>
+                </UML:Class>
+            </UML:Package>
+            
+            <UML:Package name="Gestión de Habitaciones">
+                <UML:Class name="Habitación">
+                    <UML:Attribute name="número" visibility="private"/>
+                    <UML:Attribute name="tipo" visibility="private"/>
+                    <UML:Operation name="asignarHabitación()" visibility="public"/>
+                    <UML:Operation name="liberarHabitación()" visibility="public"/>
+                </UML:Class>
+            </UML:Package>
+            
+            <UML:Package name="Gestión de Pagos">
+                <UML:Class name="Pago">
+                    <UML:Attribute name="monto" visibility="private"/>
+                    <UML:Attribute name="método" visibility="private"/>
+                    <UML:Operation name="procesarPago()" visibility="public"/>
+                    <UML:Operation name="generarRecibo()" visibility="public"/>
+                </UML:Class>
+            </UML:Package>
+            
+            <UML:Package name="Reportes e Informes">
+                <UML:Class name="Reporte">
+                    <UML:Attribute name="tipo" visibility="private"/>
+                    <UML:Operation name="generarReporte()" visibility="public"/>
+                </UML:Class>
+            </UML:Package>
+        </UML:Model>
+    </XMI.content>
+</XMI>
