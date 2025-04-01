@@ -31,4 +31,4 @@ El desarrollo se realiza siguiendo el modelo **Rational Unified Process (RUP)**,
 ## Instalación
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/usuario/sistema-gestion-hotelera.git
+   git clone https://github.com/DarckDolphin/ISW-Sistema-de-gestion-hotelera.git
