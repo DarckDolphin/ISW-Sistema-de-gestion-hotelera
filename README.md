@@ -14,7 +14,7 @@ El proyecto cuenta con un equipo diverso y especializado en diferentes áreas de
   **Arquitecta de Software**  
   Diseña la estructura del sistema, eligiendo tecnologías y garantizando escalabilidad.
 
-- **Oniel José Aguilar Milán**:  
+- **Oniel José Aguilar Milián**:  
   **Desarrollador Frontend**  
   Crea la interfaz de usuario, enfocándose en diseño y experiencia del usuario.
 
