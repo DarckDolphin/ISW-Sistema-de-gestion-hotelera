@@ -79,11 +79,6 @@ El **Sistema de Gestión Hotelera** es una solución integral diseñada para opt
 El desarrollo se realiza siguiendo el modelo **Rational Unified Process (RUP)**, dividido en las fases de Inicio, Elaboración, Construcción y Transición. Esto asegura un proceso iterativo y evolutivo, adaptándose a las necesidades del negocio y del cliente.
 
 ## Instalación
-
-1. **Clonar este repositorio:**
-
-
-## Instalación
 1. Clonar este repositorio:
    ```bash
    git clone https://github.com/DarckDolphin/ISW-Sistema-de-gestion-hotelera.git
